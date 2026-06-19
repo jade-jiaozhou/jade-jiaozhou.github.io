@@ -15,15 +15,14 @@ For a complete CV, please download the [full PDF](../assets/cv.pdf) or view my [
 
 ## Research Skills
 
-- Glacier field surveying and instrumentation
-- Numerical modeling (Python, MATLAB)
-- Data analysis and visualization
-- Remote sensing and satellite imagery
-- Scientific writing and presentation
+- Quantitative analysis, statistical modelling, and spatial analysis (R, ArcGIS)
+- Qualitative interviewing, questionnaire surveys and qualitative data analysis (NVivo)
 
 ## Teaching
 
-- Teaching Assistant, Glaciology (2024–present)
+- School of Geographical Sciences, University of Bristol
+  Graduate Teaching Level 2. Geography: Past, Present, and Future (09/2024-12/2024)
+  
 - Teaching Assistant, Climate & Cryosphere (2023–2024)
 - Supervisor for undergraduate research projects
 
