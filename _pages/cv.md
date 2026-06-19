@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-For a complete CV, please download the [full PDF](../assets/cv.pdf) or view my [LinkedIn profile](https://linkedin.com/in/jade-zhou-320a642ba/).
+For a complete CV, please download the [full PDF](../assets/CV.pdf) or view my [LinkedIn profile](https://linkedin.com/in/jade-zhou-320a642ba/).
 
 ## Education
 
