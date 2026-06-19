@@ -25,10 +25,10 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "github.com/jade-jiaozhou"
+      url: "https://github.com/jade-jiaozhou"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/in/jade-zhou-320a642ba"
+      url: "https://linkedin.com/in/jade-zhou-320a642ba/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.co.uk/citations?user=DU_bvWQAAAAJ&hl=en"
@@ -44,7 +44,7 @@ footer:
       url: "mailto:jiao.zhou@bristol.ac.uk"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/janesmith"
+      url: "https://github.com/jade-jiaozhou"
   since: "2026"
 
 # Build settings
