@@ -9,9 +9,9 @@ For a complete CV, please download the [full PDF](../assets/cv.pdf) or view my [
 
 ## Education
 
-- **PhD in Glaciology**, University of Example, 2023–present
-- **MSc in Geophysics**, University of Example, 2021–2023
-- **BSc in Physics**, University of Example, 2017–2021
+- **PhD in Human Geography**, University of Bristol, 2022–present
+- **MSc in Human Geography**, University of Sun Yat-sen University, 2018–2021
+- **BSc in Human Geography and Urban Planning**, University of Northwest University, 2014–2018
 
 ## Research Skills
 
